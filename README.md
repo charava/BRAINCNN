@@ -1,2 +1,2 @@
 # BRAINCNN #
-Brain tumor identification and classification using CNN 
+Brain tumor identification and classification using a convolutional neural network 
